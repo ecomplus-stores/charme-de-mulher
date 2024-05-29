@@ -1,5 +1,5 @@
 {
-  "domain": "charme-de-mulher.netlify.app",
+  "domain": "www.charmedemulher.com.br",
   "currency_symbol": "R$",
   "primary_color": "#313131",
   "theme": {
@@ -8,9 +8,9 @@
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/charme-de-mulher",
-  "logo": "/img/uploads/logo-cr-white.png",
-  "name": "Charme de mulher",
-  "short_name": "charme-de-mulher",
+  "logo": "/img/uploads/design-sem-nome-99-.png",
+  "name": "Charme de Mulher Moda Feminina",
+  "short_name": "Charme de Mulher Moda Feminina",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -21,6 +21,6 @@
   "secondary_color": "#a07671",
   "icon": "/img/uploads/favicon.png",
   "store_id": 51501,
-  "description": "CR nasceu em 2007, a partir de um sonho de Charme de mulher em criar roupas capaz de libertar o espírito sonhador de cada mulher. Sempre atuando no ramo da moda, com o passar do tempo começou fazer suas próprias peças e vender para as pessoas mais próximas. Deu tão certo que o interesse por seus modelos foi aumentado e ela viu a possibilidade de seus sonhos tornarem realidade.",
+  "description": "A Charme de Mulher é uma marca especializada em moda evangélica desde 2007, dedicada a realçar a elegância e a fé da mulher cristã. Com uma seleção exclusiva de peças que combinam sofisticação e modéstia, a marca oferece roupas que celebram a feminilidade e o estilo sem comprometer os valores religiosos. Escolher Charme de Mulher é optar por qualidade, tradição e um visual que inspira confiança e admiração. Transforme seu guarda-roupa com peças que refletem sua essência e devoção. Charme de Mulher: onde a moda encontra a fé.",
   "large_icon": "/img/uploads/favicon.png"
 }

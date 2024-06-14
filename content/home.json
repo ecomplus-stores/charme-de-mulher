@@ -12,6 +12,12 @@
           "mobile_img": "/img/uploads/banner-2-mobile.png",
           "img": "/img/uploads/banner-1-desktop-1-min.jpg",
           "link": ""
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-2-desktop-1-min.jpg",
+          "mobile_img": "/img/uploads/banner-2-mobile.png"
         }
       ],
       "full_width": true

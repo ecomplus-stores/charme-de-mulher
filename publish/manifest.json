@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.a5d3bbbc003662d4495ff6755a4d091c.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.0ce62c7b71b9500a7278147611813c50.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.9c3d9efa0b80000a93d6e8d45ac78572.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.d04b518d2a4e39ca26d3c1525eca80d8.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.9c55c74fbb04686afa37ad693264db95.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Charme de Mulher - Moda Feminina - de Goiânia para todo o Brasil",
+  "short_name": "Charme de Mulher Moda Feminina",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "A Charme de Mulher é uma marca especializada em moda evangélica desde 2002, dedicada a realçar a elegância e a fé da mulher cristã. Com uma seleção exclusiva de peças que combinam sofisticação e modéstia, a marca oferece roupas que celebram a feminilidade e o estilo sem comprometer os valores religiosos. Escolher Charme de Mulher é optar por qualidade, tradição e um visual que inspira confiança e admiração. Transforme seu guarda-roupa com peças que refletem sua essência e devoção. Charme de Mulher: onde a moda encontra a fé.",
+  "background_color": "#ffffff",
+  "theme_color": "#000000"
+}

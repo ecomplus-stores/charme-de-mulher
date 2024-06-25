@@ -29,9 +29,9 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "title": "Coleção Amor de Mãe",
+      "title": "Últimos Lançamentos",
       "sort": "news",
-      "collection_id": "66565f20f4e6d85ab297cb30:categories:Coleção Amor de Mãe:/colecao-amor-de-mae"
+      "collection_id": null
     },
     {
       "type": "collection-shelf",

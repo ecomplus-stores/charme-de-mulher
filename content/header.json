@@ -14,7 +14,11 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/loja?LOJA",
+      "/charme-de-mulher?Charme de Mulher",
+      "/colecao-florescer?Coleção Florescer"
+    ],
     "random": 0,
     "full_width": false
   },
